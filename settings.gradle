@@ -1,0 +1,2 @@
+rootProject.name='SC_SMS_Manager'
+include ':app'
